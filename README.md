@@ -21,3 +21,6 @@ I think it might have been some setting problem with my old repo "1st-try".
 
 
 2. new thing
+
+
+3. I did it!!! switching branch success!
