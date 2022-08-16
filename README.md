@@ -24,3 +24,5 @@ I think it might have been some setting problem with my old repo "1st-try".
 
 
 3. I did it!!! switching branch success!
+
+4. test pull & if I change code on github will pull also contain changes.(I'm surely assume it would.)
