@@ -1,3 +1,3 @@
-# why i can't clone my repo from github??
+# why can't i clone my repo from github??
 
 help!!
